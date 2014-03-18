@@ -1,5 +1,3 @@
-CSC309H1F 2013 Assignment 3 - Connect 4
-By Shaun Kho (#998344796) and Milind Shah (#998907982)
 
 Brief Explanation of How it All Works:
 
